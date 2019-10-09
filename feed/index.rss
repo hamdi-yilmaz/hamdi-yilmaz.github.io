@@ -11,7 +11,7 @@
 	<title>BirSayfa</title>
 	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>http://localhost/wordpress</link>
-	<description>Just another WordPress site</description>
+	<description>Hamdi Yılmaz</description>
 	<lastBuildDate>Sat, 24 Aug 2019 09:24:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.3</generator>
+
+<image>
+	<url>http://localhost/wordpress/wp-content/uploads/2019/10/cropped-uHiSUwl_400x400-32x32.jpg</url>
+	<title>BirSayfa</title>
+	<link>http://localhost/wordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>http://localhost/wordpress/2019/08/24/hello-world/</link>
